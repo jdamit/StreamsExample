@@ -1,0 +1,21 @@
+*/bin/*
+bin/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.settings/
+*.project
+*.classpath
+.prefs
+*.prefs
+.metadata/
+
+# Maven
+log/*
+target/
